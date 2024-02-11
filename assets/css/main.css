@@ -2120,7 +2120,7 @@ input, select, textarea {
 				border-radius: 100%;
 			}
 
-			@media screen and (max-width: 736px) {
+			@media screen and (max-width: 980px) {
 				#top .image img {
 					width: 75%;
 					margin: auto;
